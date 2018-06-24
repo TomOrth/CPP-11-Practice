@@ -1,0 +1,1 @@
+threads either have to have .join() or .detach() called on it. detach makes it a background thread
